@@ -1,0 +1,13 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.md-container {
+  padding-top: 2rem;
+}
+
+.completed-todos-card {
+  background: #cae4ba;
+}
+
+.todo-list {
+  background: #d9d9d9;
+}
